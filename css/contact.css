@@ -2,7 +2,6 @@ body {
     background-image: url('../Image/background.png');
     background-size: 100%;
     padding-top: 100px;
-    overflow: hidden;
 }
 .contact-card {
     padding: 20px;
